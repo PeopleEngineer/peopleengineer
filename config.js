@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'James Arnold | Technical Recruiter',
+  subtitle: 'I'm a Technical Recruiter with over a decade years of experience recruiting and managing projects for clients ranging from Fortune 100 companies to start-ups.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'James Arnold',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a Technical Recruiter with over a decade years of experience recruiting and managing projects for clients ranging from Fortune 100 companies to start-ups.',
     contacts: {
-      email: '',
+      email: 'james@thepeopleengineer.io',
       facebook: '#',
       telegram: '#',
       twitter: '#',
       github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: '/jamesarnold4',
       instagram: '#',
       line: '',
       gitlab: '',
