@@ -30,6 +30,7 @@ module.exports = {
     bio: 'I am a Technical Recruiter with over a decade years of experience recruiting and managing projects for clients ranging from Fortune 100 companies to start-ups.',
     contacts: {
       email: 'james@thepeopleengineer.io',
+      facebook: '',
       telegram: '#',
       twitter: '/otterbrawten',
       github: '/peopleengineer',
